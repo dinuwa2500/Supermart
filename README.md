@@ -1,41 +1,13 @@
-This repository was created as part of the Coursera Git and GitHub course project.
-It demonstrates the use of essential Git and GitHub commands, including branching, committing, merging, and working with remote repositories.
+Please consider the below factors while contributing
 
-📘 Project Description
+Code Style: Maintain a consistent code style for readability.
 
-SuperMart is a sample project used to practice version control concepts.
-The repository includes example files and demonstrates how to:
+Documentation: Ensure well-documented code for effective collaboration.
 
-Create and manage branches
+Testing: Thoroughly test your changes before submitting a pull request.
 
-Make and commit changes
+Issue Tracker: Check the Issue Tracker for tasks.
 
-Merge updates between branches
+Code Review: All contributions undergo a code review process.
 
-Work with forks and pull requests
-
-🧰 Tools & Technologies
-
-Git – for version control
-
-GitHub – for remote repository hosting
-
-Markdown – for documentation
-
-🪜 Key Commands Practiced
-
-git init – Initialize a repository
-
-git clone – Clone from GitHub
-
-git add – Stage changes
-
-git commit – Save changes
-
-git branch – Manage branches
-
-git checkout – Switch branches
-
-git merge – Merge branches
-
-git pull / git push – Sync with remote
+Licensing: Contributions are licensed.
